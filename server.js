@@ -17,6 +17,7 @@ app.use("/api/contacts" , require("./routes/contactRoutes"));
  app.use("/api/user" , require("./routes/userRoutes"));
 // error handler middle ware
 app.use(errorHandler);
+// something...
 
 app.listen(port, () => {
   console.log(`Server app listening on port ${port}`)
