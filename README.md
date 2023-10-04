@@ -45,10 +45,10 @@ Contributions to this project are welcome! If you'd like to contribute, please f
 
 License:
 
-This project is released under the [Specify License Here, e.g., MIT License]. Feel free to use, modify, and distribute it according to the terms of the license.
+This project is released under the [ MIT License]. Feel free to use, modify, and distribute it according to the terms of the license.
 
 Contact:
 
-For any questions or inquiries about this project, please feel free to reach out to Sajjarao Pavan Krishna at [Your Contact Information or GitHub Profile].
+For any questions or inquiries about this project, please feel free to reach out to Sajjarao Pavan Krishna at [pavankrishna048@gmail.com].
 
 With "Contact App Management," you have a powerful tool at your disposal for efficiently managing your contact information while ensuring data security and scalability. Explore the project, contribute to its development, and tailor it to your specific needs.
